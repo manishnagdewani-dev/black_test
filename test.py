@@ -5,6 +5,6 @@ sum = 0
 
 # iterate over the list
 for val in numbers:
-	sum = sum+val
+    sum = sum + val
 
 print("The sum is", sum)
